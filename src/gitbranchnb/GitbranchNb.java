@@ -11,4 +11,7 @@ public class GitbranchNb {
         System.out.println("NEM static fgv");
     }
     
+    void eljaras() {
+        
+    }
 }
